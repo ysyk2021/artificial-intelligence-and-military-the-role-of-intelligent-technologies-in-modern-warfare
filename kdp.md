@@ -21,7 +21,7 @@ By reading this book, you will learn:
 
 "Artificial Intelligence and Military: The Role of Intelligent Technologies in Modern Warfare" provides a comprehensive overview of the role that AI is playing in modern warfare. By exploring key topics such as autonomous weapons and systems, machine learning algorithms, cybersecurity, military strategy, and the ethical implications of using AI in warfare, readers can gain valuable insights into the future of warfare. By understanding the benefits and challenges of using intelligent technologies in military operations, we can work towards developing and implementing these technologies in a safe and responsible manner.
 
-MingHai Zheng is a writer based in Wuhan, China, who focuses on writing articles about workplace and management topics. He has written hundreds of articles on these topics and is dedicated to sharing his insights and experiences with others who are interested in improving their careers and their businesses.
+MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
 
 
 
