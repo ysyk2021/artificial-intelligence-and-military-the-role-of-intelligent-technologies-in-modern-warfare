@@ -1,5 +1,3 @@
-Chapter 5: AI-Powered Military Solutions
-========================================
 
 Artificial intelligence (AI) is increasingly being used in military contexts to enhance a range of capabilities, from autonomous weapons and systems to intelligence gathering and cybersecurity. In this chapter, we will explore some of the most significant applications of AI in modern military operations.
 

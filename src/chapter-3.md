@@ -1,5 +1,3 @@
-Chapter 3: Military Landscape
-=============================
 
 The modern military landscape is constantly evolving, with new technologies and strategies emerging all the time. In this chapter, we will explore the global trends in military technologies and warfare, as well as the components of modern warfare.
 

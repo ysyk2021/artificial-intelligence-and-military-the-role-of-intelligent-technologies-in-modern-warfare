@@ -1,5 +1,3 @@
-Machine Learning Techniques
-==============================================================================================
 
 Artificial intelligence (AI) is a rapidly evolving field that encompasses a range of techniques and technologies. One of the key components of AI is machine learning, which enables computers to learn from data and improve their performance on a specific task over time. This chapter will provide a brief overview of the fundamentals of machine learning, including the various techniques and algorithms used in this field.
 

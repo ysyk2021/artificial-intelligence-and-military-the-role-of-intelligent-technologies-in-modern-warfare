@@ -1,5 +1,3 @@
-Overview of Artificial Intelligence and Military
-=========================================================================
 
 The use of artificial intelligence (AI) in military operations has become increasingly prevalent in recent years. Intelligent systems are being developed for a range of applications, including unmanned vehicles, autonomous weapons systems, and decision support tools. These systems have the potential to improve efficiency, reduce risk to personnel, and increase speed and accuracy in decision-making.
 

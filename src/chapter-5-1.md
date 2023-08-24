@@ -1,5 +1,3 @@
-Autonomous Weapons and Systems
-========================================================================
 
 Artificial intelligence (AI) is increasingly being used in the development of military solutions. One area where AI has significant potential is in the development of autonomous weapons and systems. Autonomous weapons and systems can operate without direct human control, making them potentially faster and more efficient than traditional weapons and systems. However, they also raise ethical concerns and questions about accountability.
 

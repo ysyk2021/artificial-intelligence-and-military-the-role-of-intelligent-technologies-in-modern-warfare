@@ -1,5 +1,3 @@
-Chapter 7: Future of AI and Military
-====================================
 
 The use of artificial intelligence (AI) in military operations is rapidly expanding, with new applications and capabilities being developed all the time. In this chapter, we will explore the emerging trends and future prospects of AI in military contexts.
 

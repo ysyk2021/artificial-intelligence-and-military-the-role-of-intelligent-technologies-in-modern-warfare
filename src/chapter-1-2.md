@@ -1,5 +1,3 @@
-Purpose of the Book
-============================================
 
 The purpose of this book is to explore the role of artificial intelligence (AI) and intelligent technologies in modern warfare. The use of AI in military operations has become increasingly prevalent in recent years, with a growing number of countries investing in intelligent systems for a range of applications, including unmanned vehicles, autonomous weapons systems, and decision support tools.
 

@@ -1,5 +1,3 @@
-Types of Artificial Intelligence
-===================================================================================================
 
 Artificial intelligence (AI) is a rapidly evolving field that encompasses a range of techniques and technologies. One way to categorize the different types of AI is based on their capabilities and functionalities. This chapter will provide an overview of the different types of AI, including rules-based AI, statistical AI, and machine learning.
 

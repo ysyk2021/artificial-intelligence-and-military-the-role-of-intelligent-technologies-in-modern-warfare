@@ -1,5 +1,3 @@
-Intelligence, Surveillance, and Reconnaissance (ISR)
-==============================================================================================
 
 In modern warfare, intelligence, surveillance, and reconnaissance (ISR) are essential components of military operations. These functions enable military forces to gather critical information about enemy movements and capabilities, as well as to monitor the battlefield and identify potential threats in real time. With the advent of AI-powered military solutions, these functions have become even more powerful and effective.
 

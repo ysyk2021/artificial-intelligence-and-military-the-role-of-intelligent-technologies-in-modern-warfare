@@ -1,5 +1,3 @@
-Global Trends in Military Technologies and Warfare
-=================================================================================
 
 As we explore the role of artificial intelligence in modern warfare, it is important to consider the global trends shaping the military landscape. In this chapter, we will examine some of the key developments in military technologies and warfare around the world.
 

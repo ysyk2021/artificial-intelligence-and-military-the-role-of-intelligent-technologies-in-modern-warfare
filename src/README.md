@@ -1,4 +1,3 @@
-# Introduction
 
 Artificial intelligence (AI) is rapidly transforming the world we live in, and the military is no exception. From drones to autonomous vehicles, intelligent technologies are changing the way wars are fought and won. This book, "Artificial Intelligence and Military: The Role of Intelligent Technologies in Modern Warfare", provides a comprehensive overview of the role that AI is playing in modern warfare.
 

@@ -1,5 +1,3 @@
-History of Artificial Intelligence
-=====================================================================================================
 
 Artificial intelligence (AI) has become a ubiquitous term in modern society, but its roots can be traced back to the early days of computing. In this chapter, we will explore the history and evolution of AI, from its origins in the 1950s to the present day.
 

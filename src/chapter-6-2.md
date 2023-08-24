@@ -1,5 +1,3 @@
-Legal Framework
-==============================================================================
 
 As the use of AI in military contexts becomes more widespread, there are important legal considerations that must be taken into account. From questions about the legality of autonomous weapons to concerns about accountability and responsibility in decision-making processes, there are a range of legal issues that must be carefully considered when developing and deploying AI in military operations.
 

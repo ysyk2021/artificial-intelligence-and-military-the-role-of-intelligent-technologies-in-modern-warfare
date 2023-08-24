@@ -1,5 +1,3 @@
-Chapter 6: Ethical and Legal Issues Related to AI in Military
-=============================================================
 
 As the use of artificial intelligence (AI) in military operations continues to expand, it is important to consider the ethical and legal implications of these technologies. In this chapter, we will explore the key ethical and legal issues related to the use of AI in military contexts.
 

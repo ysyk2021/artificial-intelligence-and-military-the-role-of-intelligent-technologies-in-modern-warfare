@@ -1,5 +1,3 @@
-Chapter 4: Role of AI in Modern Warfare
-=======================================
 
 Artificial intelligence (AI) is rapidly transforming the way military operations are conducted. From autonomous weapons and reconnaissance systems to advanced analytics and decision-making tools, AI is enhancing military capabilities and changing the nature of modern warfare. In this chapter, we will explore the benefits and challenges of using AI in military operations.
 
