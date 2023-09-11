@@ -1,5 +1,4 @@
-Chapter 5: Intelligence, Surveillance, and Reconnaissance (ISR)
-===============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Intelligence, Surveillance, and Reconnaissance (ISR) are critical components of modern warfare. The integration of Artificial Intelligence (AI) technologies in ISR operations has revolutionized military capabilities and decision-making processes. In this chapter, we will explore the role of intelligent technologies in enhancing ISR capabilities.
 

@@ -1,5 +1,4 @@
-Chapter 12: Legal Framework in the Role of Artificial Intelligence and Intelligent Technologies in Modern Warfare
-=================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The increasing role of artificial intelligence (AI) and intelligent technologies in modern warfare brings about complex legal challenges and ethical considerations. In this chapter, we will explore the legal framework surrounding the use of AI in military operations, addressing key issues and regulations that govern its deployment.
 

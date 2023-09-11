@@ -1,5 +1,4 @@
-Chapter 6: Autonomous Weapons and Systems
-=========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Autonomous weapons and systems have emerged as a significant area of focus in the realm of Artificial Intelligence (AI) and modern warfare. This chapter explores the role, implications, and considerations surrounding autonomous weapons and systems in military operations.
 

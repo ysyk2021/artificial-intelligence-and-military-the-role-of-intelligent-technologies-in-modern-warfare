@@ -1,5 +1,4 @@
-Chapter 3: History of Artificial Intelligence
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial Intelligence (AI) has a rich history dating back to ancient times. In this chapter, we will explore the milestones and key developments that have shaped the field of AI from its inception to the present day.
 

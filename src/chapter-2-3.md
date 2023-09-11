@@ -1,5 +1,4 @@
-Chapter 7: Machine Learning Techniques
-======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Machine learning techniques play a crucial role in the development and application of artificial intelligence (AI) in modern warfare. In this chapter, we will explore key machine learning techniques that enable intelligent technologies to process data, make predictions, and learn from experience.
 

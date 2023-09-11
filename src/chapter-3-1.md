@@ -1,5 +1,4 @@
-Chapter 7: Global Trends in Military Technologies and Warfare
-=============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The rapid advancement of Artificial Intelligence (AI) and other intelligent technologies has led to significant changes in military capabilities and the nature of warfare on a global scale. This chapter explores the emerging trends in military technologies and their impact on modern warfare.
 

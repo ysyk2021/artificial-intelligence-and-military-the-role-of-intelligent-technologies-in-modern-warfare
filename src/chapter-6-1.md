@@ -1,5 +1,4 @@
-Chapter 13: Ethical Considerations in the Role of Artificial Intelligence and Intelligent Technologies in Modern Warfare
-========================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The integration of artificial intelligence (AI) and intelligent technologies in modern warfare raises significant ethical considerations. In this chapter, we will explore the ethical challenges associated with the use of AI in military operations, addressing key issues related to accountability, transparency, bias, and privacy.
 
